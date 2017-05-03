@@ -33,24 +33,24 @@ body{
 
 #vj{
 
-    z-index: 100;
+    z-index: 80;
 
     position: absolute;
 
     top: 10px;
 
-    left: 60px;
+    left: -100px;
 
 }
 
 #vr{
 
-    z-index: 80;
+    z-index: 100;
 
     position: absolute;
 
-    top: -200px;
+    top: 240px;
 
-    left: 0px;
+    left: 240px;
 
 }
