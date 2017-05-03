@@ -19,15 +19,14 @@ body{
     overflow: hidden;
 
     position: relative;
-
 }
 .fond{
 
-    margin-bottom:-5px;
+    margin-top:-5px;
 
     z-index: 10;
 
-    position: relative;
+    position: absolute;
 
 }
 
@@ -53,4 +52,10 @@ body{
 
     left: 0px;
 
+}
+#fond1{
+    bottom: 380px;
+}
+#fond2{
+    bottom: 0px;
 }
